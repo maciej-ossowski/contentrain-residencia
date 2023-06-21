@@ -2,7 +2,7 @@
   {
     "createdAt": 1649454764941,
     "ID": "f8b185c1-76ca-4246-945b-3d37843d53dd",
-    "logo": "public/1649454761001_icon.png",
+    "logo": "public/1687341860685_Screenshot 2023-06-21 at 12.04.07.png",
     "socialIcons": [
       {
         "createdAt": 1649454858978,
@@ -28,6 +28,7 @@
         "url": "https://github.com/Contentrain/nuxt-blog-starter/",
         "iconName": "ri-github-line"
       }
-    ]
+    ],
+    "updatedAt": 1687341862726
   }
 ]
